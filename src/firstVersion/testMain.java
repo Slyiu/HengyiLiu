@@ -145,7 +145,7 @@ public class testMain {
 		}
 		
 
-		// Sorry Professor, I'm stuck on solving this project, therefore I fail to finish iit.
+		// Sorry Professor, I'm stuck on solving this project, therefore I fail to finish it.
 		
 		
 		
